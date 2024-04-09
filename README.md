@@ -10,6 +10,8 @@
 
         $ git clone <endereço do repositório GitHub>
 
+Obs.: Atalho do teclado para colar: Shift + Ctrl + Insert
+
 # ----------------------------------------------------------------
 ### Trabalhar com arquivos dentro da pasta + repositório do GitHub
 
