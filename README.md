@@ -151,5 +151,25 @@ Obs.: Atalho do teclado para colar: Shift + Ctrl + Insert
 
         $ git restore --staged <nome do arquivo>
 
+
+# ----------------------------------------------------------------
+#### Comando para associar um repositório local ao repositório remoto no GitHub
+        
+        $ git remote add origin https://github.com/USUÁRIO/REPOSITÓRIO.git
+
+### Alterar a URL remota para a conta desejada
+
+#### Para a conta principal, a URL deve ser:
+
+        $ git remote set-url origin git@github.com:USUÁRIO/REPOSITÓRIO.git
+
+#### Para a conta secundária, a URL deve ser:
+
+        $ git remote set-url origin git@github-secundaria:USUÁRIO/REPOSITÓRIO.git
+
+#### Verificar a URL remota atual
+
+        $ git remote -v
+        
 # ----------------------------------------------------------------
 
