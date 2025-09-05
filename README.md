@@ -161,11 +161,11 @@ Obs.: Atalho do teclado para colar: Shift + Ctrl + Insert
 
 #### Para a conta principal, a URL deve ser:
 
-        $ git remote set-url origin git@github.com:USUÁRIO/REPOSITÓRIO.git
+        $ git remote set-url origin git@github.com-principal:USUÁRIO/REPOSITÓRIO.git
 
 #### Para a conta secundária, a URL deve ser:
 
-        $ git remote set-url origin git@github-secundaria:USUÁRIO/REPOSITÓRIO.git
+        $ git remote set-url origin git@github.com-secundaria:USUÁRIO/REPOSITÓRIO.git
 
 #### Verificar a URL remota atual
 
